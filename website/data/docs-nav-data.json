@@ -846,5 +846,9 @@
   {
     "title": "Debugging",
     "path": "debugging"
+  },
+  {
+    "title": "HCP Packer",
+    "href": "https://cloud.hashicorp.com/docs/packer"
   }
 ]
